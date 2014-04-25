@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ebook</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">手机号\n13697432844\n邮箱地址\nchugahgong@qq.com</string>
+    <string name="My">Hello,World!</string>
+
+</resources>
